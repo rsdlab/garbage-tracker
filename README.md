@@ -13,6 +13,7 @@ Garbage Tracker, Team Robbota.
 
 [Demo Video]()
 
+日本語の説明は[こちら](README-ja.md)
 ## Description
 
 Garbage tracker is a futuristic, autonomous robotic vehicle designed to collect and dispose of garbage.
