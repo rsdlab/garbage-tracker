@@ -34,7 +34,7 @@ Since it was heavily inspired by the original author's work, we inherit his orig
 ## Contributors
 Ryuichi Miura ([miura123](https://github.com/miura123))<br>
 Kosuke Tokuda ([tokuda99](https://github.com/tokuda99))<br>
-Yukiya Yamamoto
+Yukiya Yamamoto ([Yukiya-Yamamoto](https://github.com/Yukiya-Yamamoto))
 ## Contacts
 
 If you have further question, email to kotoku9924@gmail.com.
