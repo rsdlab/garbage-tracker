@@ -1,4 +1,0 @@
-[submodule "garbage-tracker"]
-	path = garbage-tracker
-	url = https://github.com/rsdlab/garbage-tracker
-	branch = garbage-tracker-web
