@@ -1,0 +1,9 @@
+[submodule "garbage-tracker-self-driving"]
+	path = garbage-tracker-self-driving
+	url = https://github.com/tokuda99/garbage-tracker-self-driving
+[submodule "garbage-tracker-manegement"]
+	path = garbage-tracker-manegement
+	url = https://github.com/miura123/garbage-tracker-manegement
+[submodule "garbage-tracker-web"]
+	path = garbage-tracker-web
+	url = https://github.com/tokuda99/garbage-tracker-web
