@@ -24,10 +24,9 @@
 3. ゴミの量を常に監視しています。満タンになった場合は巡回をやめ、ゴミ回収業者のもとへ帰ります。また危険物が投入されないよう、捨てる際はゴミの種類も確認します。
 
 このリポジトリは大きく３つのソースコードからなります。詳細は以下のリンクを参照してください。個別に説明があります。
-1. [自動運転]()
-2. [ゴミ管理]()
-3. [Webアプリケーション]()
-
+1. [自動運転](https://github.com/tokuda99/garbage-tracker-self-driving)
+2. [ゴミ管理](https://github.com/miura123/garbage-tracker-manegement)
+3. [Webアプリケーション](https://github.com/tokuda99/garbage-tracker-web)
 ## ライセンス
 
 自動運転のリポジトリは以下のソースコードを参考に作成しました。[Spresense-microROS-Seminar](https://github.com/TE-YoshinoriOota/Spresense-microROS-Seminar).<br>

@@ -24,9 +24,9 @@ It comes equipped with the following features:
 3. It monitors the amount of garbage, and when it reaches full capacity, it autonomously returns to the waste collection facility.
 
 This repository have 3 module. Detail is each branch.
-1. [Self-driving]()
-2. [Garbage manegement]()
-3. [Web app]()
+1. [Self-driving](https://github.com/tokuda99/garbage-tracker-self-driving)
+2. [Garbage manegement](https://github.com/miura123/garbage-tracker-manegement)
+3. [Web app](https://github.com/tokuda99/garbage-tracker-web)
 ## License
 
 This repository takes reference from [Spresense-microROS-Seminar](https://github.com/TE-YoshinoriOota/Spresense-microROS-Seminar) .
