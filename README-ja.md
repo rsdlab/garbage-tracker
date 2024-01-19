@@ -27,8 +27,11 @@
 1. [自動運転](https://github.com/tokuda99/garbage-tracker-self-driving)
 2. [ゴミ管理](https://github.com/miura123/garbage-tracker-manegement)
 3. [Webアプリケーション](https://github.com/tokuda99/garbage-tracker-web)
-## ライセンス
 
+ハードウェアのCADデータは以下のリンクを参照してください。<br>
+[CADデータ](https://github.com/Yukiya-Yamamoto/garbage-tracker-hardware)
+
+## ライセンス
 自動運転のリポジトリは以下のソースコードを参考に作成しました。[Spresense-microROS-Seminar](https://github.com/TE-YoshinoriOota/Spresense-microROS-Seminar).<br>
 彼の功績に敬意を払い、本リポジトリのライセンスはこれを継承します。
 

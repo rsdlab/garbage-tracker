@@ -27,8 +27,11 @@ This repository have 3 module. Detail is each branch.
 1. [Self-driving](https://github.com/tokuda99/garbage-tracker-self-driving)
 2. [Garbage manegement](https://github.com/miura123/garbage-tracker-manegement)
 3. [Web app](https://github.com/tokuda99/garbage-tracker-web)
-## License
 
+Hardware detail is following.<br>
+[CAD](https://github.com/Yukiya-Yamamoto/garbage-tracker-hardware)
+
+## License
 This repository takes reference from [Spresense-microROS-Seminar](https://github.com/TE-YoshinoriOota/Spresense-microROS-Seminar) .
 Since it was heavily inspired by the original author's work, we inherit his original LGPL-2.1 license.
 

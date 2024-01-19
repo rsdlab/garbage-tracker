@@ -7,3 +7,6 @@
 [submodule "garbage-tracker-web"]
 	path = garbage-tracker-web
 	url = https://github.com/tokuda99/garbage-tracker-web
+[submodule "garbage-tracker-hardware"]
+	path = garbage-tracker-hardware
+	url = https://github.com/Yukiya-Yamamoto/garbage-tracker-hardware
